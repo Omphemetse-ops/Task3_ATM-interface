@@ -5,7 +5,7 @@ The Java project involves creating and designing an ATM machine simulation. This
 
 Programming Language: Java
 
-## What I have learned:
+## What I have learned/Developed:
 ### Technical Skill
 - Java OOP
 - Java programming language
